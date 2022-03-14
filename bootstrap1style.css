@@ -1,0 +1,47 @@
+.div-red {
+    background-color: red;
+}
+
+.div-pink {
+    background-color: rgb(243, 79, 221);
+}
+
+.div-purple {
+    background-color: purple;
+}
+
+.div-yellow {
+    background-color: yellow;
+}
+
+.div-lightblue {
+    background-color: lightskyblue;
+}
+
+.div-blue {
+    background-color: blue;
+}
+
+.div-darkblue {
+    background-color: darkblue;
+}
+
+.div-lightgreen {
+    background-color: lightgreen;
+}
+
+.div-green {
+    background-color: green;
+}
+
+.div-grey {
+    background-color: lightgray;
+}
+
+.height-100 {
+    min-height: 50px;
+}
+
+.height-200 {
+    min-height: 100px;
+}
